@@ -17,8 +17,9 @@ complex business problems.
 |---|---|---|
 | [NBA Salary Prediction](https://github.com/lorrainedzeble/nba-salary-prediction) | XGBoost, K-Means, Optuna, Python | Predicted fair market value for NBA players and validated against real Boston Celtics roster decisions |
 
-![Feature Importance](https://raw.githubusercontent.com/lorrainedzeble/nba-salary-prediction/main/feature_importance.png)
-![Player Clusters](https://raw.githubusercontent.com/lorrainedzeble/nba-salary-prediction/main/player_clusters.png)
+<img width="933" height="690" alt="player_cluster" src="https://github.com/user-attachments/assets/b321aa4a-9834-40b2-aa25-2e472e4e5de0" />
+<img width="889" height="490" alt="feature_importance" src="https://github.com/user-attachments/assets/9c5aa50a-f4b9-4b7d-a62a-08e60ca8d18c" />
+
 
 ---
 
