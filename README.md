@@ -13,9 +13,9 @@ complex business problems.
 ## 📂 Analytics Portfolio
 
 ### 🤖 Machine Learning
-| Project | Tools | Description |
-|---|---|---|
-| [NBA Salary Prediction](https://github.com/lorrainedzeble/nba-salary-prediction) | XGBoost, K-Means, Optuna, Python | Predicted fair market value for NBA players and validated against real Boston Celtics roster decisions |
+| Project | Tools | Description | Results |
+|---|---|---|---|
+| [NBA Salary Prediction](https://github.com/lorrainedzeble/nba-salary-prediction) | XGBoost, K-Means, Optuna, Python | Predicted fair market value for NBA players using performance clustering and salary-gap analysis | XGBoost Test R² = 0.769, outperforming Linear Regression baseline; 5 player archetypes identified; model unbiased across roles; recommendations aligned with all 2023 Celtics offseason decisions — team won 2024 NBA Championship |
 
 <img width="933" height="690" alt="player_cluster" src="https://github.com/user-attachments/assets/b321aa4a-9834-40b2-aa25-2e472e4e5de0" />
 <img width="889" height="490" alt="feature_importance" src="https://github.com/user-attachments/assets/9c5aa50a-f4b9-4b7d-a62a-08e60ca8d18c" />
